@@ -38,10 +38,6 @@ The network follows a hierarchical model:
 2. Open the `.pkt` file
 3. Run the simulation mode to observe network behavior
 
-## 📸 Screenshots
-
-(Add screenshots of your topology here)
-
 ## 🎯 Learning Outcomes
 
 * Understanding hierarchical network design
@@ -51,4 +47,4 @@ The network follows a hierarchical model:
 
 ## 👨‍💻 Author
 
-Your Name
+Gaurav Parmar
